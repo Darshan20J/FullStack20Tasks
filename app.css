@@ -49,6 +49,10 @@ label {
     font-weight: bolder;
 }
 
+*:focus {
+    outline: none;
+}
+
 .form-input {
     margin: 0.6rem 0;
     padding: 0.7rem;
@@ -126,6 +130,7 @@ hr {
 .reset:hover, .submit:hover {
     background-color: #fff;
     color: #000;
+    cursor: pointer;
 }
 @media screen and (max-width: 900px) {
     .container {
