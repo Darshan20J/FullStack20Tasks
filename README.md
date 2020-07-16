@@ -14,7 +14,7 @@ This repo contains the completed task given by Fullstack20 community.
 
 > Task List
 The form must contains following elements
-* [x] Username
+* [] Username
 * [x] Name
 * [x] Email
 * [x] Contact
