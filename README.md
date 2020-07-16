@@ -10,18 +10,18 @@ This repo contains the completed task given by Fullstack20 community.
 
 > Task Specifications and Details
 * HTML Form
-* Styled in Pure CSS
+* Style in Pure CSS
 
 > Task List
 The form must contains following elements
-* [] Username
-* [x] Name
-* [x] Email
-* [x] Contact
-* [x] Password
-* [x] Gender
-* [x] DOB
-* [x] Check Boxes with Several Programming Languages as Options
-* [x] City (Dropdown Menu)
-* [x] Reset Button
-* [x] Submit Button
+* [ ] Username
+* [ ] Name
+* [ ] Email
+* [ ] Contact
+* [ ] Password
+* [ ] Gender
+* [ ] DOB
+* [ ] Check Boxes with Several Programming Languages as Options
+* [ ] City (Dropdown Menu)
+* [ ] Reset Button
+* [ ] Submit Button
