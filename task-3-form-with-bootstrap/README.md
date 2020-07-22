@@ -13,5 +13,7 @@ By Darshan Hulswar
 - Dob
 - Select your fav programing language (check box)
 - city (drop-down menu)
-Submit & Reset botton
+- Submit & Reset botton
+
+
 
