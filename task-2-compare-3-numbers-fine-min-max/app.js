@@ -4,6 +4,7 @@ const inpNum3 = document.getElementById('num-3');
 
 // Btn 
 const btn = document.getElementById('check');
+const clr = document.getElementById('clear');
 
 btn.addEventListener('click', () => {
     const value1 = inpNum1.value;
@@ -20,4 +21,10 @@ btn.addEventListener('click', () => {
 
         alert(`Minimum: ${min} Maximum: ${max}`);
     }
+})
+
+clr.addEventListener('click', () => {
+    inpNum1.value = "";
+    inpNum2.value = "";
+    inpNum3.value = "";
 })
