@@ -7,23 +7,7 @@
     <title>SignUp Now | Developer Space</title>
     <link rel="shortcut icon" href="https://img.icons8.com/fluent/48/000000/user-male-circle.png" type="image/x-icon">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
-
-    <style>
-        .full-screen {
-            background: url(https://img.freepik.com/free-vector/abstract-colorful-flow-shapes-background_23-2148258092.jpg?size=626&ext=jpg);
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
-            background-attachment: scroll;
-
-        }
-
-        .dark-overlay {
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.2);
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
