@@ -1,0 +1,19 @@
+*FullStack20-Task-2-Find-Min-Max-App*
+
+*Codepen link* 	--> [https://codepen.io/Darshan-505/full/RwrmBwQ]
+*GitHub Link* 	--> [https://github.com/Darshan20J/FullStack20Tasks/tree/master/task-2-compare-3-numbers-fine-min-max]
+
+-------------------------
+*FullStack20-Task-3-Calculator-App*
+
+*Codepen Link* 	--> [https://codepen.io/Darshan-505/full/oNbRMZo]
+*GitHub Link* 	--> [https://github.com/Darshan20J/FullStack20Tasks/tree/master/task-simple-calculator]
+
+-------------------------
+
+*Resources Used:*
+*Bootstrap CDN:* 	[https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css]
+
+*Free Stock Images*: [https://unsplash.com]
+
+*Google Fonts:* [https://fonts.google.com]
