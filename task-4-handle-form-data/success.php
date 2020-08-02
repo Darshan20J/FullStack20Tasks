@@ -7,13 +7,7 @@
 
     <link rel="shortcut icon" href="https://img.icons8.com/color/48/000000/ok.png" type="image/x-icon">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
-
-    <style>
-        .full-screen {
-            width: 100%;
-            height: 100vh;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     
