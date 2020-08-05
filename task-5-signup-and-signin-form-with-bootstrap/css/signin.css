@@ -7,9 +7,6 @@
     width: 100%;
     height: 100vh;
     background-position: center;
-    /* background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%); */
-    /* background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); */
-    /* background-image: linear-gradient(to top, #c4c5c7 0%, #dcdddf 52%, #ebebeb 100%); */
     background-image: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);
     background-size: cover;
     background-repeat: no-repeat;
@@ -28,9 +25,6 @@
 
 .text-clrd {
     color: #68cef7;
-    /* background: -webkit-linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; */
 }
 
 .bg-clr {
@@ -39,7 +33,6 @@
 
 .btn-grad {
     background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
-    /* background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%); */
 }
 
 .dark-overlay {

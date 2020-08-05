@@ -1,4 +1,4 @@
-# FullSack20 Tasks 
+# FullSack20 Task 
 > # SignUp Form Redesigned with Bootstrap
 ![SignUp Form](../img/signup-form-with-bootstrap.png)
 ## Resources Used 
